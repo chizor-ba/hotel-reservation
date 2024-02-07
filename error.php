@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>error 404</h1>
-    <button><a href="./index.php">home</a></button>
+    <button><a href="./index.php">go back to home</a></button>
 </body>
 </html>
